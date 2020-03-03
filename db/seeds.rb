@@ -6,14 +6,14 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-
-
+Word.destroy_all
+User.destroy_all
 ##USER
 User.create(name:"nat",username:"natwit95")
 
 ##WORDS
-Word.create(word:"cat")
-Word.create(word:"fun")
+
+Word.create(word:"mat")
 Word.create(word:"trick")
 Word.create(word:"school")
 Word.create(word:"same")
@@ -81,3 +81,4 @@ Word.create(word:"wire")
 Word.create(word:"grind")
 
 
+Game.create(score:0,user_id:4)
