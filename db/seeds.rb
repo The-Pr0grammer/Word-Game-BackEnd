@@ -8,6 +8,7 @@
 
 Word.destroy_all
 User.destroy_all
+Game.destroy_all
 ##USER
 User.create(name:"nat",username:"natwit95")
 
