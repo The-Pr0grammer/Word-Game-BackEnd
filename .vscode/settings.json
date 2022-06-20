@@ -1,0 +1,25 @@
+{
+    "editor.defaultFormatter": "castwide.solargraph",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#689a24",
+        "activityBar.activeBorder": "#b1d4ed",
+        "activityBar.background": "#689a24",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#b1d4ed",
+        "activityBarBadge.foreground": "#15202b",
+        "sash.hoverBorder": "#689a24",
+        "statusBar.background": "#4c711a",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#689a24",
+        "statusBarItem.remoteBackground": "#4c711a",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#4c711a",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#4c711a99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#4c711a"
+}
